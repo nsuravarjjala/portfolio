@@ -1,0 +1,70 @@
+h1 {
+    font-family: 'Rokkitt', serif;
+}
+.sideeffect img {
+    margin-left: 0px;
+    -webkit-transition: margin 1s ease;
+    -moz-transition: margin 1s ease;
+    -o-transition: margin 1s ease;
+    -ms-transition: margin 1s ease;
+    transition: margin 1s ease;
+}
+.sideeffect img:hover {
+    margin-left: -50px;
+}
+.jumbotron,
+header,
+footer,
+body {
+    background-color: #EAE7DC
+}
+p {
+    font-family: 'Rokkitt', serif;
+}
+.active li {
+    background-color: darkslateblue;
+}
+.thumbnail {
+    border-color: #e85a45;
+    border-width: thick medium thick medium;
+}
+.colorchange {
+    color: #337ab7;
+}
+.row-r {
+    color: #e85a45;
+    background-color: #666;
+    font-weight: bold;
+    padding: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-align: center;
+    font-size: 1.5em;
+}
+/*width: 200px;
+    border: 5px;
+    padding: 5px;
+    border-color: #00CED1; 
+    
+} 
+.col-md-8 cc{
+    color:#e85a45;
+} */
+
+.cc {
+    color: #e85a45;
+    background-color: #666;
+    font-weight: bold;
+    padding: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-align: center;
+    font-size: 1.5em;
+}
+}
+.cb {
+    color: black;
+}
+.cbc {
+    font-size: 2em;
+}
